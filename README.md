@@ -1,21 +1,49 @@
-# 💫 About Me:
-Hello 👋,  I am Aditya S Poojary<br><br>Software Engineer | Developer
+# Hi there 👋 I'm Aditya S Poojary
 
+💻 **Software Engineer | Full-Stack Developer**  
+I enjoy building scalable applications, writing clean code, and solving real-world problems through technology.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya S Poojary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaspoojary@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaSPoojary&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaSPoojary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSPoojary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_S_Poojary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdityaSPoojary)
+[![Email](https://img.shields.io/badge/Email-adityaspoojary@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaspoojary@gmail.com)
 
-### ✍️ Random Dev Quote
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML5 • CSS3 • Angular
+
+**Backend**
+- Java • .NET
+
+**Database**
+- MySQL • PostgreSQL
+
+**Tools & Others**
+- Canva • GitHub
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSPoojary&theme=dark&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AdityaSPoojary&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSPoojary&theme=dark&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## ✍️ Developer Thought of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaSPoojary&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AdityaSPoojary&icon=0&color=0"/>
+</p>
