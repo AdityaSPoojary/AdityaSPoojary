@@ -6,7 +6,7 @@ I enjoy building scalable applications, writing clean code, and solving real-wor
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_S_Poojary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdityaSPoojary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_S_Poojary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-s-poojary-008788271/)
 [![Email](https://img.shields.io/badge/Email-adityaspoojary@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaspoojary@gmail.com)
 
 ---
